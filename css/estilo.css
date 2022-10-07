@@ -1,0 +1,41 @@
+ *{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+
+body{
+    background-color: #242E31;
+}
+div{
+    width: 922px;
+    margin: 220px auto;
+}
+
+article{
+   width: 551px;
+   margin-bottom: 96PX;
+}
+
+h2{
+color: #F8DFB0;
+margin-bottom: 16px;
+font-family: 'Libre Franklin',sans-serif;
+font-size: 40px;
+font-weight: 700;
+}
+
+p{
+color: #eadfca;
+font-family: 'NUMANS' , sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32PX;
+}
+.alinhado-direita{
+    text-align: right;
+    margin-left: auto;
+    
+}
+
